@@ -131,7 +131,7 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 ![Ethereum](https://img.shields.io/badge/ETHEREUM-3C3C3D.svg?&style=flat&logo=ethereum&logoColor=white)&nbsp;
 
 </details>
-
+<!-- 
 <details>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
   <br/>
@@ -155,3 +155,4 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 <img src="https://komarev.com/ghpvc/?username=brunotacca&style=plastic&label=Views"><img>
 <img src="https://badges.pufler.dev/visits/brunotacca/brunotacca?color=black&logo=github" />
 </p>
+ -->
