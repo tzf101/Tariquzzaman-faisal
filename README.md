@@ -34,7 +34,7 @@
 ![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
 ![Eclipse](https://img.shields.io/badge/ECLIPSE-2C2255.svg?&style=flat&logo=eclipse)&nbsp;
-![IntelliJ](https://img.shields.io/badge/INTELLIJ-000000.svg?&style=flat&logo=intellij-idea)&nbsp;\
+![IntelliJ](https://img.shields.io/badge/INTELLIJ-000000.svg?&style=flat&logo=intellij-idea)&nbsp;
 ![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
 
 <!-- 
@@ -69,8 +69,8 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
   <summary><b>:brain: &nbsp;Other knowledge, always learning</b></summary>
   <br/>
 
-![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;\
-![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;\
+![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
 ![Cpp](https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
 ![JQuery](https://img.shields.io/badge/JQUERY-0769AD.svg?&style=flat&logo=jquery&logoColor=white)&nbsp;
 ![JSP](https://img.shields.io/badge/JSP-323330.svg?&style=flat&logo=eclipse&logoColor=white)&nbsp;
