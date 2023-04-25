@@ -3,7 +3,7 @@
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently studying CSE at <a href="https://www.iutoic-dhaka.edu/">IUT</a> \
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and development\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently researching natural language processing.\
+<!-- &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently researching natural language processing.\ -->
 &nbsp;&nbsp;&nbsp;:family_man_woman_girl_girl: &nbsp;Living in Dhaka, Bangladesh.
 
 <p align="center">
