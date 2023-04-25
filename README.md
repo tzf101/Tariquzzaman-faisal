@@ -1,4 +1,3 @@
-<img src="images/svg/header_en.svg"></img>
 ### :space_invader: &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently studying CSE at <a href="https://www.iutoic-dhaka.edu/">IUT</a> \
@@ -23,7 +22,13 @@
 <!-- <details>
   <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
   <br/> -->
-
+My skills are:
+<a href=""><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
+<a href=""><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+<a href=""><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></a>
+<a href=""><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
+<a href=""><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
@@ -36,40 +41,6 @@
 ![Eclipse](https://img.shields.io/badge/ECLIPSE-2C2255.svg?&style=flat&logo=eclipse)&nbsp;
 ![IntelliJ](https://img.shields.io/badge/INTELLIJ-000000.svg?&style=flat&logo=intellij-idea)&nbsp;
 ![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
-
-<!-- 
-Java, JSF, Primefaces, Angular, Spring, Springboot, JPA/Hibernate. 
-Flutter, GetX, BLoC, MobX.
-GitHub, GitLab, Docker, Ansible
-Kotlin, Firebase.
-Ant, Maven, Gradle, 
-VSCode, Eclipse, IntelliJ IDEA.
-HTML, CSS, JavaScript, TypeScript.
-postgresql, pgadmin, mysql, sqlite.
-TDD, BDD, DDD
-clean architecture, hexagonal architecture, onion architecture, mvc, mvvm.
-linux
--->
-<!-- </details> -->
-
-<!-- 
-jquery, sass
-nestjs, nodejs, redis, nginx,
-rest, graphql, grpc
-apache kafka,
-google cloud plataform, google app engine, aws
-oracle, mariadb, mongodb, 
-Kubernates, puppet, github actions
-python, c, cpp, arduino
-php, photoshop
-blockchain, cryptocurrencies, cryptography, bitcoin, ethereum 
--->
-
-<!-- <details>
-  <summary><b>:brain: &nbsp;Other knowledge, always learning</b></summary>
-  <br/> -->
-
-![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
 ![Cpp](https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
 ![JQuery](https://img.shields.io/badge/JQUERY-0769AD.svg?&style=flat&logo=jquery&logoColor=white)&nbsp;
