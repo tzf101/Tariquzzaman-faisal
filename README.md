@@ -20,9 +20,9 @@
 
 <hr/>
 
-<details>
+<!-- <details>
   <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
-  <br/>
+  <br/> -->
 
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
@@ -50,7 +50,7 @@ TDD, BDD, DDD
 clean architecture, hexagonal architecture, onion architecture, mvc, mvvm.
 linux
 -->
-</details>
+<!-- </details> -->
 
 <!-- 
 jquery, sass
@@ -65,9 +65,9 @@ php, photoshop
 blockchain, cryptocurrencies, cryptography, bitcoin, ethereum 
 -->
 
-<details>
+<!-- <details>
   <summary><b>:brain: &nbsp;Other knowledge, always learning</b></summary>
-  <br/>
+  <br/> -->
 
 ![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
@@ -76,7 +76,7 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 ![JSP](https://img.shields.io/badge/JSP-323330.svg?&style=flat&logo=eclipse&logoColor=white)&nbsp;
 ![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-31A8FF.svg?&style=flat&logo=adobe-photoshop&logoColor=white)&nbsp;
 ![XD](https://img.shields.io/badge/XD-FFC0CB.svg?&style=flat&logo=adobe-xd&logoColor=black)&nbsp;
-</details>
+<!-- </details> -->
 <!-- 
 <details>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
