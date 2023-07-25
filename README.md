@@ -1,9 +1,24 @@
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently studying CSE at <a href="https://www.iutoic-dhaka.edu/">IUT</a> \
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and development \
-&nbsp;&nbsp;&nbsp;:family_man_woman_girl_girl: &nbsp;Living in Dhaka, Bangladesh.
+👨‍💻 Software Engineer with a passion for Python and Machine Learning (NLP)
+
+🚀 Experienced in spaCy, Langchain, PyTorch, Django, FastAPI, Git, and web development
+
+🔍 Problem-solving ninja who loves competitive programming challenges
+
+💡 Always exploring new tech possibilities and staying updated on AI-driven advancements
+
+🎯 Building advanced NLP models and user-friendly web-based solutions
+
+🤝 Great collaborator, making teamwork smooth with solid Git skills
+
+🎉 Proud of impactful projects that make a positive difference
+
+🔥 Eager to work on cutting-edge technologies with like-minded innovators
+
+🏆 Continuous learner, staying at the forefront of Machine Learning trends
+
+🚀 Ready to tackle exciting challenges and drive tech forward!
 
 <p align="center">
   <a href="mailto:tariquzzaman@iut-dhaka.edu"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
