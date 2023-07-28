@@ -2,13 +2,7 @@
 
 👨‍💻 Software Engineer with a passion for Python and Machine Learning (NLP)
 
-🚀 Experienced in spaCy, Langchain, PyTorch, Django, FastAPI, Git, and web development
-
 🔍 Problem-solving ninja who loves competitive programming challenges
-
-💡 Always exploring new tech possibilities and staying updated on AI-driven advancements
-
-🎯 Building advanced NLP models and user-friendly web-based solutions
 
 🤝 Great collaborator, making teamwork smooth with solid Git skills
 
@@ -16,7 +10,6 @@
 
 🔥 Eager to work on cutting-edge technologies with like-minded innovators
 
-🏆 Continuous learner, staying at the forefront of Machine Learning trends
 
 🚀 Ready to tackle exciting challenges and drive forward!
 
